@@ -1,0 +1,5 @@
+for MATH S1234 got 85.00 out of 100.00 questions right for a total of 85.00%
+for ENGLISH S1234 got 10.00 out of 30.00 questions right for a total of 33.33%
+for SCIENCE S1234 got 45.00 out of 50.00 questions right for a total of 90.00%
+for PROGRAMING S1234 got 100.00 out of 100.00 questions right for a total of 100.00%
+For a total percentage of 85.71%

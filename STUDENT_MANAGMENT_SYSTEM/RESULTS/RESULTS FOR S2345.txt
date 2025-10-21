@@ -1,0 +1,5 @@
+for MATH S2345 got 15.00 out of 100.00 questions right for a total of 15.00%
+for ENGLISH S2345 got 28.00 out of 30.00 questions right for a total of 93.33%
+for SCIENCE S2345 got 75.00 out of 100.00 questions right for a total of 75.00%
+for CHEMISTRY S2345 got 98.00 out of 99.00 questions right for a total of 98.99%
+For a total percentage of 65.65%
